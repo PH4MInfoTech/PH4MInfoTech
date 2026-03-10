@@ -19,6 +19,7 @@ Interests: Systems Administration, Network Security, and Data Analytics.
 ---
 
 ⚡ Fun Facts
+
 Tinkerer: If it has a circuit board, I've probably tried to take it apart (and hopefully put it back together).
 
 Bilingual: Fluent in English and Vietnamese.
