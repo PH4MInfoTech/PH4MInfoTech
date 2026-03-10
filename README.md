@@ -34,7 +34,7 @@ Music: I almost always have a playlist running while I code.
 
 * 💼 **LinkedIn:** [linkedin.com/in/andy-pham-3b387a2a4/?trk=li_LOL_SPIN_global_careers_jobsgtm_otw2_acq_Nov2020_spinv3](https://linkedin.com/in/andy-pham-3b387a2a4/?trk=li_LOL_SPIN_global_careers_jobsgtm_otw2_acq_Nov2020_spinv3)
 * 📧 **Email:** [andypham2002@outlook.com](mailto:andypham2002@outlook.com)
-* 🎮 **Discord:** `.PH4M.`
+* 🎮 **Discord:** `@.PH4M.`
 
 
 ---
