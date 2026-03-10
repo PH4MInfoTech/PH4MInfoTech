@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Andy! 👨‍💻
+Welcome to my corner of GitHub! I’m an aspiring developer and IT professional based in Pennsylvania, currently bridging the gap between data analysis and technical infrastructure.
 
-<!--
-**PH4M-InfoTech/PH4M-InfoTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"Driven by curiosity and a commitment to continuous improvement." From my roots in rural PA to my current role in healthcare, I’ve always been a problem solver. I am passionate about understanding how technology works from the ground up—whether it's building networks or securing data—and I am dedicated to mastering the IT landscape through rigorous study and hands-on experience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏥 Currently: Analyst in the Healthcare sector.
+
+🎓 Education: B.S. in IT & Analytics (In Progress).
+
+🔐 Focus: Cybersecurity and Networking.
+
+🛠 Tech Stack & Learning Path
+Certifications: Working toward CompTIA Trifecta (Tech+, A+, Network+).
+
+Interests: Systems Administration, Network Security, and Data Analytics.
+
+---
+
+⚡ Fun Facts
+Tinkerer: If it has a circuit board, I've probably tried to take it apart (and hopefully put it back together).
+
+Bilingual: Fluent in English and Vietnamese.
+
+Gamer: Competitive FPS enthusiast.
+
+Music: I almost always have a playlist running while I code.
+
+---
+
+## 🤝 Connect with me
+
+* 💼 **LinkedIn:** [linkedin.com/in/andy-pham-3b387a2a4/?trk=li_LOL_SPIN_global_careers_jobsgtm_otw2_acq_Nov2020_spinv3](https://linkedin.com/in/andy-pham-3b387a2a4/?trk=li_LOL_SPIN_global_careers_jobsgtm_otw2_acq_Nov2020_spinv3)
+* 📧 **Email:** [andypham2002@outlook.com](mailto:andypham2002@outlook.com)
+* 🎮 **Discord:** `.PH4M.`
+
+
+---
+
+*Happy to see you've made it this far! Enjoy exploring my journey and feel free to reach out. <3*
+ 
