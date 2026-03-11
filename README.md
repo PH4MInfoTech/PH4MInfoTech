@@ -36,7 +36,7 @@ Music: I almost always have a playlist running while I code.
 * 📧 **Email:** [andypham2002@outlook.com](mailto:andypham2002@outlook.com)
 * 🎮 **Discord:** `@.PH4M.`
 
-
+![Overwatch Rank](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/PH4MInfoTech/PhamInfoTech/main/badge.json&logo=overwatch&logoColor=white)
 ---
 
 *Happy to see you've made it this far! Enjoy exploring my journey and feel free to reach out. <3*
