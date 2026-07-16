@@ -1,11 +1,9 @@
 Hi, I'm Andy! 👨‍💻
 Welcome to my corner of GitHub! I’m an aspiring developer and IT professional based in Pennsylvania, currently bridging the gap between data analysis and technical infrastructure.
 
-"Driven by curiosity and a commitment to continuous improvement." From my roots in rural PA to my current role in healthcare, I’ve always been a problem solver. I am passionate about understanding how technology works from the ground up—whether it's building networks or securing data—and I am dedicated to mastering the IT landscape through rigorous study and hands-on experience.
+"Driven by curiosity and a commitment to continuous improvement." From my roots in rural PA, I’ve always been a problem solver. I am passionate about understanding how technology works from the ground up—whether it's building networks or securing data—and I am dedicated to mastering the IT landscape through rigorous study and hands-on experience.
 
 ---
-
-🏥 Currently: Analyst in the Healthcare sector.
 
 🎓 Education: B.S. in IT & Analytics (In Progress).
 
