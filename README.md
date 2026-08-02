@@ -5,7 +5,7 @@ Welcome to my corner of GitHub! I’m an aspiring developer and IT professional 
 
 ---
 
-🎓 Education: B.S. in IT & Analytics (In Progress).
+🎓 Education: B.S.B.A. in IT & Analytics (In Progress).
 
 🔐 Focus: Cybersecurity and Networking.
 
