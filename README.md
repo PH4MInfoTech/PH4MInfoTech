@@ -5,7 +5,7 @@ Welcome to my corner of GitHub! I’m an aspiring developer and IT professional 
 
 ---
 
-🎓 Education: Commonwealth University of Pennsylvania - Bloomsburg, B.S.B.A. in IT & Analytics (In Progress).
+🎓 Education: Commonwealth University of Pennsylvania - Bloomsburg, B.S.B.A. concentrating in IT & Analytics (In Progress).
 
 🔐 Focus: IT, Data Analytics, and Networking.
 
